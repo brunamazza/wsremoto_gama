@@ -1,9 +1,6 @@
-# wsremoto_gama
-Workspace com projetos em Java
+# wsremoto_humberto
+Uma workspace com projetos em Java.
 
-
-
-Eclipse 2020
-Java SE 1.8
-
-Curso java
+Para montagem da Workspace utilizei o Eclipse 2020.
+Os projetos estão em Java SE 1.8
+Todos os projetos são exemplos voltados ao paradigma de Orientação à Objetos.
